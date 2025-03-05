@@ -20,11 +20,17 @@ O App de Conexão entre Pais e Educadores tem como objetivo fortalecer a comunic
 
 
 🛠️ Tecnologias Utilizadas
+
 Front-end: Java/XML
+
 Back-end: Java
-Banco de Dados: Firebase Firestore / PostgreSQL
-Autenticação: Firebase Auth / OAuth
-Notificações: Firebase Cloud Messaging
+
+Banco de Dados:  PostgreSQL
+
+Autenticação: a definir
+
+Notificações: a definir
+
 📦 Como Instalar e Executar
 1️⃣ Clone este repositório:
 
@@ -32,24 +38,6 @@ bash
 Copiar
 Editar
 git clone https://github.com/rocharenata/Alunet.git
-2️⃣ Acesse o diretório do projeto:
-
-bash
-Copiar
-Editar
-cd alunet
-3️⃣ Instale as dependências:
-
-bash
-Copiar
-Editar
-npm install
-4️⃣ Execute o projeto:
-
-bash
-Copiar
-Editar
-npm start
 
 
 📩 Contato
