@@ -5,12 +5,19 @@ O App de Conexão entre Pais e Educadores tem como objetivo fortalecer a comunic
 
 
 🚀 Funcionalidades Principais
+
 ✅ Agenda de Reuniões e Eventos – Agendamento e confirmação de reuniões e eventos escolares.
+
 ✅ Boletins e Desempenho Escolar – Acompanhamento das notas e progresso acadêmico em tempo real.
+
 ✅ Feedback de Comportamento e Atividades – Informações sobre participação, interação e frequência dos alunos.
+
 ✅ Dicas Pedagógicas para Pais – Sugestões de atividades e materiais para apoiar o aprendizado em casa.
+
 ✅ Chat entre Pais e Educadores – Comunicação direta para discussão do progresso dos alunos.
+
 ✅ Notificações e Alertas – Atualizações sobre reuniões, provas, entregas de trabalhos e avisos importantes.
+
 
 🛠️ Tecnologias Utilizadas
 Front-end: Java/XML
